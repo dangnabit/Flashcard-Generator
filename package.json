@@ -1,0 +1,23 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangnabit/Flashcard-Generator.git"
+  },
+  "author": "Dan Gabel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangnabit/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/dangnabit/Flashcard-Generator#readme",
+  "dependencies": {
+    "argv": "0.0.2",
+    "inquirer": "^3.0.6"
+  }
+}
